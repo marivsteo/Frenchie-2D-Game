@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototip 1.1", "Prototip 1.1.csproj", "{66E74D34-5E11-5066-9B17-5E2B1281A8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototip 1.1.Editor", "Prototip 1.1.Editor.csproj", "{AC62797D-54E2-A6DD-3C57-12386D1D9D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66E74D34-5E11-5066-9B17-5E2B1281A8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E74D34-5E11-5066-9B17-5E2B1281A8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E74D34-5E11-5066-9B17-5E2B1281A8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E74D34-5E11-5066-9B17-5E2B1281A8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC62797D-54E2-A6DD-3C57-12386D1D9D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC62797D-54E2-A6DD-3C57-12386D1D9D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC62797D-54E2-A6DD-3C57-12386D1D9D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC62797D-54E2-A6DD-3C57-12386D1D9D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
